@@ -1,0 +1,58 @@
+[1101/154514.933:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1101/154514.992:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:19320 gpu-process-sandbox:1
+[1101/154515.019:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/154515.357:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1101/154715.024:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/172526.570:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1101/172526.865:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/172526.951:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1101/172726.780:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/190148.479:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1101/190148.524:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:29180 gpu-process-sandbox:1
+[1101/190148.612:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/190148.702:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1101/190348.589:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/190902.479:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1101/190902.531:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:972 gpu-process-sandbox:1
+[1101/190902.554:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1101/190902.617:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1101/191102.574:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1102/095725.769:WARNING:spdy_session.cc(3306)] Received HEADERS for invalid stream 1
+[1102/095726.599:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1102/095726.599:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[1102/095726.599:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[1102/095726.599:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 112 to 123
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 120
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 113 to 119
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 118
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1102/095726.600:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 112 to 123
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 120
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 113 to 119
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 118
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1102/095726.605:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.612:ERROR:rtc_peer_connection_handler.cc(2508)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 8873669652068365032 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 118\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:wauX\r\na=ice-pwd:NO+gBtvKctXQIbmHgZYIiBTG\r\na=ice-options:trickle\r\na=fingerprint:sha-256 EB:AF:20:1A:8E:DA:E4:35:BD:E9:2A:26:41:85:8C:C3:FC:AA:6F:98:EE:35:D4:07:44:5B:83:75:90:C8:78:28\r\na=setup:actpass\r\na=mid:0\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:118 google-data/90000\r\na=ssrc:3861032346 cname:Opv+0RWcZEs5HRiB\r\na=ssrc:3861032346 msid:- \r\na=ssrc:3861032346 mslabel:-\r\na=ssrc:3861032346 label:\r\n"
+[1102/095726.612:ERROR:rtc_peer_connection_handler.cc(1355)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.612:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.613:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.613:ERROR:webrtc_sdp.cc(402)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1102/095726.613:ERROR:rtc_peer_connection_handler.cc(2508)] Failed to create native session description. Type: "offer" SDP: "v=0\r\no=- 8873669652068365032 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 1\r\na=msid-semantic: WMS\r\nm=application 9 UDP/TLS/RTP/SAVPF 118\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:B8lK\r\na=ice-pwd:qHu3wJ5uj2plsvyF4bn3VX6r\r\na=ice-options:trickle\r\na=fingerprint:sha-256 EB:AF:20:1A:8E:DA:E4:35:BD:E9:2A:26:41:85:8C:C3:FC:AA:6F:98:EE:35:D4:07:44:5B:83:75:90:C8:78:28\r\na=setup:actpass\r\na=mid:1\r\na=sendrecv\r\na=msid: \r\na=rtcp-mux\r\na=rtpmap:118 google-data/90000\r\na=ssrc:3418325820 cname:Opv+0RWcZEs5HRiB\r\na=ssrc:3418325820 msid:- \r\na=ssrc:3418325820 mslabel:-\r\na=ssrc:3418325820 label:\r\n"
+[1102/095726.613:ERROR:rtc_peer_connection_handler.cc(1355)] "Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute."

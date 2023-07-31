@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wechatscan", "wechatscan\wechatscan.csproj", "{D2F67080-CEE8-49C1-B5AB-748AE985E9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scancodeuploader", "scancodeuploader\scancodeuploader.csproj", "{AE83C7B4-436D-430D-BC02-E9E539D90DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wechatscanWpf", "wechatscanWpf\wechatscanWpf.csproj", "{D22821E3-43C1-4A62-85C5-FAC29B4A2095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetWechatScan", "ResetWechatScan\ResetWechatScan.csproj", "{22F48588-866F-4ACA-A438-CADE2873A5D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F67080-CEE8-49C1-B5AB-748AE985E9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F67080-CEE8-49C1-B5AB-748AE985E9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F67080-CEE8-49C1-B5AB-748AE985E9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F67080-CEE8-49C1-B5AB-748AE985E9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE83C7B4-436D-430D-BC02-E9E539D90DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE83C7B4-436D-430D-BC02-E9E539D90DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE83C7B4-436D-430D-BC02-E9E539D90DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE83C7B4-436D-430D-BC02-E9E539D90DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22821E3-43C1-4A62-85C5-FAC29B4A2095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22821E3-43C1-4A62-85C5-FAC29B4A2095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22821E3-43C1-4A62-85C5-FAC29B4A2095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22821E3-43C1-4A62-85C5-FAC29B4A2095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F48588-866F-4ACA-A438-CADE2873A5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F48588-866F-4ACA-A438-CADE2873A5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F48588-866F-4ACA-A438-CADE2873A5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F48588-866F-4ACA-A438-CADE2873A5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8FDA98-06D1-4345-8915-4F59EE47D2BE}
+	EndGlobalSection
+EndGlobal
